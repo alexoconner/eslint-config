@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-react",
-  "version": "1.0.0",
+  "name": "eslint-config-react-preset",
+  "version": "1.0.1",
   "description": "eslint config for es6 development with react",
   "author": "Alexnder Skrabl",
   "main": "index.js",
