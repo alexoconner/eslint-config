@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-react",
   "version": "0.0.0",
   "description": "eslint config for es6 development with react",
   "author": "Alexnder Skrabl",
