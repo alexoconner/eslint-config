@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config",
+  "version": "0.0.0",
+  "description": "eslint config for es6 development with react",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexnder Skrabl",
+  "license": "ISC"
+}
